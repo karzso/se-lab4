@@ -1,0 +1,4 @@
+#Try to fire two times, but the second time time both od the stores are empty.
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
