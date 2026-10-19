@@ -1,0 +1,3 @@
+#The primary store is empty, the ship tries to fire from the secondary store.
+GT4500,0,0,2,0
+TORPEDO,SINGLE

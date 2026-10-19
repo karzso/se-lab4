@@ -1,0 +1,5 @@
+#Try to fire 3 times, but the third is a faliure.
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
